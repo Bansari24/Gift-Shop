@@ -1,7 +1,13 @@
 # Gift-Shop HTML5 and CSS3
-This project was been made using Html5 and designed using CSS3.
-it used HTML5 tags.
-we also have static login and registration pages
+ HTML5 + CSS3
+ 
+This is my Gift-Gallery Website.
+Main Technology used to design this website was HTML5 tags.
+For making it more attractive applied CSS3 in this.
+
+This static website displays the redirection of the webpages and main important part is the animation and the visual of the images.
+There is also sign in and registration page.
+It represents one table for comparition and the description of the particular item.
 
 # Screenshots
 ![2](https://user-images.githubusercontent.com/57503162/82070631-02db8d00-96a3-11ea-84dc-bd5f67b39386.png)
